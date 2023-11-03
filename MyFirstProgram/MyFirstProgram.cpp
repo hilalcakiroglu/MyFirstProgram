@@ -7,5 +7,5 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "I am Hilal! \n";
-    std::cout << "This is for everyone.";
+    std::cout << "This is for everyone. I mean EVERYONE!!!";
 }
